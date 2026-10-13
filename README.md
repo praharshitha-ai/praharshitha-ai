@@ -1,28 +1,26 @@
-# Hi, I'm Praharshitha Kota
+# Hi, I’m Praharshitha Kota
 
-I build practical projects across **data analysis, machine learning, GenAI, and full-stack development**.
+I’m a PGDM student in AI and Data Science in Healthcare at IIHMR-B, with a bachelor’s degree in Perfusion Technology. I use Python and data-science methods to explore healthcare and business problems and build small machine-learning applications.
 
-My background combines a **PGDM in AI and Data Science in Healthcare** with a **Bachelor's degree in Perfusion Technology**. I enjoy turning messy data and real-world problems into useful, understandable products.
+## Areas I’m building in
 
-## What I work with
+- Healthcare analytics and data visualization
+- Supervised machine learning and natural language processing
+- Reproducible analysis and model delivery
 
-- **Data and analytics:** Python, Pandas, NumPy, SQL, Tableau, Matplotlib, Seaborn
-- **Machine learning:** scikit-learn, NLP, model evaluation, feature engineering
-- **MLOps and deployment:** FastAPI, Streamlit, Docker, GitHub Actions, Prometheus, Grafana
-- **GenAI and development:** JavaScript, Gemini API, REST APIs, Netlify
+## Tools used in my projects
 
-## Selected projects
+Python, Pandas, NumPy, scikit-learn, SQL, Tableau, Streamlit, FastAPI, Docker, and GitHub Actions.
 
-- [Employee Attrition MLOps System](https://github.com/praharshitha-ai/employee-attrition-mlops-system) — an end-to-end ML system with training, experiment tracking, API deployment, monitoring, Docker, and CI/CD.
-- [Sentiment Analysis](https://github.com/praharshitha-ai/Sentiment-Analysis) — compares classical ML and BiLSTM approaches for Amazon review classification, with a Streamlit dashboard.
-- [Trader Sentiment Analysis](https://github.com/praharshitha-ai/trader-sentiment-analysis-) — explores the relationship between crypto-market sentiment and trader behavior.
-- [FutureMe](https://github.com/praharshitha-ai/future-u-chalo-upgrade) — a GenAI-powered self-reflection product with personalized messages, action plans, and chat guidance.
+## Featured projects
 
-## Currently improving
+- [Heart-risk data exploration in Tableau](https://github.com/praharshitha-ai/Heart-attack-risk-data-analysis-_tableau) — a packaged Tableau workbook exploring demographic, health, and lifestyle fields in a heart-attack-risk dataset. This is an exploratory visualization, not a clinical tool.
+- [Sentiment Analysis](https://github.com/praharshitha-ai/Sentiment-Analysis) — text preprocessing and model-training experiments, with a Streamlit dashboard for classifying review text. The README explains the current data and evaluation limits.
+- [Employee Attrition Prediction](https://github.com/praharshitha-ai/employee-attrition-mlops-system) — an in-progress scikit-learn project with a training pipeline, Streamlit interface, FastAPI health endpoint, and GitHub Actions workflow.
 
-- Building cleaner, reproducible ML projects
-- Strengthening deployment and MLOps practices
-- Creating projects with clear business impact and measurable results
+## Current focus
+
+Building clear, reproducible data-science projects and documenting their limitations, especially when the subject involves health or people-related decisions.
 
 ## Contact
 
