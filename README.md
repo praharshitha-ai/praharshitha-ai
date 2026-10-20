@@ -8,6 +8,7 @@ The projects here are me taking a question from raw data to something a clinicia
 
 | Project | What it does | Built with |
 |---|---|---|
+| [IDSP disease surveillance (Telemedicon 2026)](https://github.com/praharshitha-ai/idsp-disease-surveillance) | Abstract with Renuka Prasanthi Dandi. Compared Prophet, SARIMA and linear models on 44,952 IDSP outbreak records: median forecast error rose from 77% nationally to 105% at district level, and a linear trend was never beaten. Includes a React and D3 dashboard of 16 diseases. | Python, Prophet, React, D3 |
 | [WholePerf](https://github.com/praharshitha-ai/wholeperf) | Web app for cardiac perfusion teams: BSA, blood flow, heparin and cannula calculators, per-patient procedure logs and disposables inventory, with Firestore rules that keep each clinician's records private. [Live demo](https://wholeperf.netlify.app) | React, TypeScript, Firebase |
 | [Chlorhexidine trial: survival analysis](https://github.com/praharshitha-ai/chlorhexidine-vap-survival-analysis) | Time to ventilator-associated pneumonia (VAP) across two trial arms. 103 patients and 8 events, analysed with Kaplan-Meier curves, a log-rank test (p = 0.20) and a Cox model adjusted for age, APACHE II score and gender. | Python, pandas, lifelines |
 | [Heart attack risk dashboard](https://github.com/praharshitha-ai/heart-attack-risk-tableau) | Tableau workbook with 18 worksheets, 2 dashboards and a story on demographic, lifestyle and regional risk factors. Exploratory, not a clinical tool. | Tableau |
@@ -24,7 +25,7 @@ Python (pandas, scikit-learn, lifelines) · SQL and PostgreSQL · R · Power BI 
 
 - **Clinical:** perfusion trainee in cardiac surgery, KIMS Sunshine Hospitals and KIMS Hospitals (2023 to 2025)
 - **Health IT:** HIS user-interface customization for client hospitals, Product Intern at KareXpert Technologies (2026)
-- **Research:** abstract on how forecastable India's IDSP disease surveillance data is (44,952 outbreak records, 2009 to 2026), submitted to Telemedicon 2026
+- **Research:** [abstract](https://github.com/praharshitha-ai/idsp-disease-surveillance) with Renuka Prasanthi Dandi on how forecastable India's IDSP disease surveillance data is (44,952 outbreak records, 2009 to 2026), submitted to Telemedicon 2026
 
 ## Contact
 
